@@ -1,12 +1,53 @@
-<html>
-<head>
-<title>Radio</title>
-</head>
+<html class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <title>Radio</title>
+    <meta name="description" content="">
+    <style>
+      /* Responsive video */
+      video {
+        max-width: 100%;
+        height: auto;
+      }
+
+      /* style */
+      body {
+        background: #37455b;
+        color: #cedbf0;
+      }
+      h1, a {
+        color: #b4d931;
+      }
+      video {
+        border: 1px solid #485a74;
+      }
+    </style>
+  </head>
 <body>
-  
-<audio controls>
-    <source src="https://raw.githubusercontent.com/devlin016/stuff/main/radio.m3u" type="audio/mpegURL" />
-</audio>
-  
+<video id="video"controls width="640" data-playlist="radio.m3u"></video>
+
+    <p>
+    <button id="video-next-source">Next station</button>
+    <button id="video-randomize-source">Previous station</button>
+    </p>
+
+    <p>
+    <strong>Playlist&nbsp;:</strong> <a href="https://raw.githubusercontent.com/devlin016/stuff/main/radio.m3u">https://raw.githubusercontent.com/devlin016/stuff/main/radio.m3u</a></li>
+    </p>
+
+    <script src="m3uStreamPlayer.js"></script>
+    <script>m3uStreamPlayer.init({selector: '#video', debug: true});</script>
+    <script>
+
+      /**
+       * Buttons
+       */
+      var buttonNextSource = document.querySelector('#video-next-source');
+      var buttonRandomizeSource = document.querySelector('#video-previous-source');
+      buttonNextSource.addEventListener('click', function(){ m3uStreamPlayer.nextSource(document.querySelector('#video')); })
+      buttonRandomizeSource.addEventListener('click', function(){ m3uStreamPlayer.previousSource(document.querySelector('#video')); })
+
+    </script>
+
 </body>
 </html>
