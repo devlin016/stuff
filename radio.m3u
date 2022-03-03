@@ -32,12 +32,12 @@ http://naxos.cdnstream.com/1398_128
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 hitz music
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 alternative music
-https://playerservices.streamtheworld.com/api/livestream-redirect/977_ALTERN_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_ALTERNAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 90s music
-https://playerservices.streamtheworld.com/api/livestream-redirect/977_90_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_90AAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 jamz music
-https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZ_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 country music
-https://playerservices.streamtheworld.com/api/livestream-redirect/977_COUNTRY_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_COUNTRYAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 classic rock music
-https://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCK_SC
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCKAAC.aac
