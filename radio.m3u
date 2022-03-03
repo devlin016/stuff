@@ -13,6 +13,8 @@ https://crystalout.surfernetwork.com:8001/WRSR-FM_MP3
 https://24443.live.streamtheworld.com/WIOGFMAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',101.1 the wrif
 https://18053.live.streamtheworld.com/WRIFFMAACIHR.aac
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',100.7 lansing witl
+https://prod-34-82-13-22.wostreaming.net/townsquare-witlfmaac-ibc3
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',100.3 wnic
 https://stream.revma.ihrhls.com/zc1153
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',wdvd 96.3
@@ -23,3 +25,17 @@ https://n0aa-e2.revma.ihrhls.com/zc1145
 https://24403.live.streamtheworld.com/WCSXFMAACIHR.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',wkqz 93.3
 https://18853.live.streamtheworld.com/WKQZFMAAC.aac
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',grand rapids top country
+http://naxos.cdnstream.com/1398_128
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 hitz music
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITSAAC.aac
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 alternative music
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_ALTERN_SC
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 90s music
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_90_SC
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 jamz music
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZ_SC
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 country music
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_COUNTRY_SC
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 classic rock music
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCK_SC
