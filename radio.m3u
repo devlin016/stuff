@@ -1,6 +1,6 @@
 #EXTM3U tvg-shift=0
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',106.7 detroit wllz
-https://n15b-e2.revma.ihrhls.com/zc1137
+https://stream.revma.ihrhls.com/zc1137/hls.m3u8?streamid=1137&zip=30331&clientType=web&host=webapp.US&listenerId=&modTime=1650190280289&profileid=5113542261&terminalid=159&territory=US&us_privacy=1-N-&callLetters=WLLZ-FM&devicename=web-desktop&stationid=1137&dist=iheart&subscription_type=free&country=US&locale=en-US&site-url=https%3A%2F%2Fwww.iheart.com%2Flive%2F1067-wllz-1137%2F
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',105.5 toledo q105
 https://18093.live.streamtheworld.com/WQQOFMAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',104.7 toledo wiot
