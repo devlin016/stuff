@@ -6,7 +6,7 @@ https://18093.live.streamtheworld.com/WQQOFMAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',104.7 toledo wiot
 https://stream.revma.ihrhls.com/zc1849
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',104.5 saginaw wilz
-https://16863.live.streamtheworld.com/WILZFMAAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/WILZFMAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',103.9 owosso the fox
 https://crystalout.surfernetwork.com:8001/WRSR-FM_MP3
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',102.5 bay city wiog
