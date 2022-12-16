@@ -7,6 +7,8 @@ https://18093.live.streamtheworld.com/WQQOFMAAC.aac
 https://stream.revma.ihrhls.com/zc1849
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',104.5 saginaw wilz
 http://playerservices.streamtheworld.com/api/livestream-redirect/WILZFMAAC.aac
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',104.5 grand rapids snx
+https://stream.revma.ihrhls.com/zc1173
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',103.9 owosso the fox
 https://crystalout.surfernetwork.com:8001/WRSR-FM_MP3
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',102.5 bay city wiog
@@ -17,14 +19,16 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WRIFFMAAC.aac
 http://stream.abacast.net/direct/townsquare-witlfmaac-ibc3
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',100.3 detroit wnic
 https://stream.revma.ihrhls.com/zc1153
-#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',98.5 rocky mount big dwg
-https://playerservices.streamtheworld.com/api/livestream-redirect/WDWGFMAAC.aac
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',97.9 detroit wjlb
+https://stream.revma.ihrhls.com/zc1141
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',96.3 detroit wdvd
 http://playerservices.streamtheworld.com/api/livestream-redirect/WDVDFMAAC_SC
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',95.5 detroit channel 95.5
 https://stream.revma.ihrhls.com/zc1145
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',94.7 detroit channel wcsx
 http://playerservices.streamtheworld.com/api/livestream-redirect/WCSXFMAACIHR.aac
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',93.7 grand rapids b93
+http://playerservices.streamtheworld.com/api/livestream-redirect/WKQZFMAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',93.3 saginaw wkqz
 http://playerservices.streamtheworld.com/api/livestream-redirect/WKQZFMAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',grandrapids top country
