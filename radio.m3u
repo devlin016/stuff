@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',106.7 detroit wllz
 https://stream.revma.ihrhls.com/zc1137
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',105.5 toledo q105
-https://26413.live.streamtheworld.com/WQQOFMAAC.aac?dist=onlineradiobox
+https://playerservices.streamtheworld.com/api/livestream-redirect/WQQOFMAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',104.7 toledo wiot
 https://stream.revma.ihrhls.com/zc1849
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',104.5 saginaw wilz
