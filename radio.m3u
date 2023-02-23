@@ -1,6 +1,6 @@
 #EXTM3U tvg-shift=0
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',easter egg
-https://raw.githubusercontent.com/Loordubmary/how-to-make-m3u-playlist/master/sample-playlist.m3u
+https://raw.githubusercontent.com/devlin016/stuff/main/test.m3u
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',106.7 detroit wllz
 https://stream.revma.ihrhls.com/zc1137
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',105.5 toledo q105
