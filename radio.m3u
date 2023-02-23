@@ -1,4 +1,6 @@
 #EXTM3U tvg-shift=0
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',easter egg
+https://raw.githubusercontent.com/Loordubmary/how-to-make-m3u-playlist/master/sample-playlist.m3u
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',106.7 detroit wllz
 https://stream.revma.ihrhls.com/zc1137
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',105.5 toledo q105
@@ -45,5 +47,3 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZAAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_COUNTRYAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 classic rock music
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCKAAC.aac
-#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',easter egg
-https://raw.githubusercontent.com/Loordubmary/how-to-make-m3u-playlist/master/sample-playlist.m3u
