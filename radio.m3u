@@ -45,3 +45,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZAAC.aa
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_COUNTRYAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',977 classic rock music
 https://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCKAAC.aac
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',easter egg
+https://media.devlin016.net:4443/web/blank.mp3
