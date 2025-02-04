@@ -20,7 +20,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WRIFFMAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',100.7 lansing witl
 http://stream.abacast.net/direct/townsquare-witlfmaac-ibc3
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',100.5 grand rapids the river
-https://prod-54-160-3-112.amperwave.net/townsquare-wtrvfmaac-ibc3
+https://live.amperwave.net/manifest/townsquare-wtrvfmaac-ibc3
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',100.3 detroit wnic
 https://stream.revma.ihrhls.com/zc1153
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',97.9 detroit wjlb
