@@ -1,6 +1,8 @@
 #EXTM3U tvg-shift=0
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',106.7 detroit wllz
 https://stream.revma.ihrhls.com/zc1137
+#EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',106.3 saginaw the core
+https://live.amperwave.net/direct/alphacorporate-wgerfmaac-ibc4
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',105.5 toledo q105
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQQOFMAAC.aac
 #EXTINF:-1 tvg-id='' tvg-name='' tvg-logo='' group-title='audio channels',104.7 toledo wiot
